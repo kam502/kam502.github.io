@@ -1,0 +1,2 @@
+LIVE=
+REASON=Konfiguracja GitHub Pages gotowa. Uruchom: gh auth login, potem .\deploy-one-shot.ps1
